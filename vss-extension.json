@@ -1,10 +1,10 @@
 {
     "manifestVersion": 1,
-    "id": "Drop-plan-extension#{testing-flag}",
-    "version": "1.6.9",
-    "name": "Sprint Drop Plan#{testing-flag}",
+    "id": "azuredevopssprintplanning#{testing-flag}",
+    "version": "1.0.0",
+    "name": "Azure DevOps Sprint Plan#{testing-flag}",
     "description": "Plan and track your sprint with a calendar based view.",
-    "publisher": "yanivsegev",
+    "publisher": "huybrechts-xyz",
     "public": false,
     "icons": {
         "default": "images/logo.png"
@@ -28,12 +28,12 @@
     },
     "links": {
         "support": {
-            "uri": "https://github.com/yanivsegev/VSTS-DropPlan/issues"
+            "uri": "https://github.com/huybrechtsxyz/azuredevopssprintplanning/issues"
         }
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/yanivsegev/VSTS-DropPlan"
+        "url": "https://github.com/huybrechtsxyz/azuredevopssprintplanning"
     },
     "targets": [
         {
